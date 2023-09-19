@@ -80,11 +80,11 @@
   <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="30" height="30"/> </a> 
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riiki-kenway&" alt="riiki-kenway" />
+<h3 align="left">My Statistics:</h3>
+<p align="center">
+  <img align="center" width=350 src="https://github-readme-streak-stats.herokuapp.com/?user=riiki-kenway" alt="riiki-kenway" />
 </p>
-
-<p>
-<img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=riiki-kenway&show_icons=true&locale=en&layout=compact" alt="riiki-kenway" />
-<img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=riiki-kenway&show_icons=true&locale=en" alt="riiki-kenway" />
+<p align="center">
+  <img align="center" width=329 src="https://github-readme-stats.vercel.app/api?username=riiki-kenway&show_icons=true&locale=en" alt="riiki-kenway" />
+  <img align="center" width=255 src="https://github-readme-stats.vercel.app/api/top-langs?username=riiki-kenway&show_icons=true&locale=en&layout=compact" alt="riiki-kenway"/>
 </p>
