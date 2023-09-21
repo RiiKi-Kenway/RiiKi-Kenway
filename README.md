@@ -28,6 +28,14 @@
 
 Experiência como desenvolvedor desde 2019. Atualmente sou desenvolvedor de software na empresa EDZA - Planejamento, Consultoria e Informática.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/@riikivalente" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@riikivalente" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/ricardo-valente-221576210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardo valente" height="30" width="30" /></a>
+  <a href="https://fb.com/ricardo valente" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ricardo valente" height="30" width="30" /></a>
+  <a href="https://instagram.com/@riikivalente" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@riikivalente" height="30" width="30"/></a>
+</p>
+
 <h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> 
