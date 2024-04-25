@@ -12,7 +12,7 @@
 
 <p>
   <a href="https://app.daily.dev/Riiki">
-    <img height=300 align="right" src="https://github.com/RiiKi-Kenway/RiiKi-Kenway/blob/main/devcard.svg" alt="Ricardo Valente's Dev Card"/>
+    <img height=300 align="right" src="https://api.daily.dev/devcards/v2/qkdMW5geUM64Rt6AOUNRG.png?r=1qr&type=default" alt="Ricardo Valente's Dev Card"/>
   </a>
 </p>
 
